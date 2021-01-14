@@ -22,7 +22,7 @@ header{
 }
 
 h3 {
-    margin-left: -120px;
+    margin-left: 100px;
     margin-top: 20px;
     color:#0758c2;
     font-size: 50px;
@@ -51,6 +51,7 @@ nav ul {
 .nav {
   width: 500px;
   margin: 0 auto;
+  margin-top: 25px;
   background:rgb(210, 242, 252);
   color:#0758c2;
 }
