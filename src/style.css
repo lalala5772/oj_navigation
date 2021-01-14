@@ -12,12 +12,6 @@ body {
     font-size: 14px;
     line-height: 1.5;
     text-align: center;
-    -webkit-box-align: right;
-      -ms-flex-align: right;
-          align-items: right;
-    -webkit-box-pack: right;
-      -ms-flex-pack: right;
-          justify-content: right;
     width: 100%;
     height: 100%;   
 }
